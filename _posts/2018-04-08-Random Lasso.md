@@ -2,7 +2,7 @@
 layout:     post
 title:      Random Lasso
 subtitle:   集成Lasso
-date:       2018-04-05
+date:       2018-04-08
 author:     Arctanxy
 header-img: img/post-bg-desk.jpg
 catalog: 	 true
